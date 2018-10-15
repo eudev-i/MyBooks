@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Books</string>
+
+    <string name="pequeno_principe">
+        O autor do livro é o personagem principal da história, que assume também o papel de narrador, contando sobre o fatídico dia em que seu avião teria caído no meio do deserto do Saara.
+    </string>
+
+    <string name="cinquenta_tons">
+        A estudante de literatura Anastasia Steele, de 21 anos, entrevista o jovem bilionário Christian Grey, como um favor a sua colega de quarto Kate Kavanagh. Ela vê nele um homem atraente e brilhante, e ele fica igualmente fascinado por ela.
+
+    </string>
+
+    <string name="kotlin">
+        A linguagem Kotlin vem ganhando cada vez mais destaque no cenário do desenvolvimento de aplicativos. Projetada para ter uma interoperabilidade total com código Java, Kotlin tem sido a primeira escolha na criação de aplicativos Android, sendo multiparadigma e multiplataforma.
+
+    </string>
+</resources>
