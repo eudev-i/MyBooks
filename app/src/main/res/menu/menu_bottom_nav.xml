@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/fragBibliotecaGeral"
+        android:title="Geral"
+        android:icon="@drawable/home"/>
+
+    <item android:id="@+id/fragLivrosLidos"
+        android:title="Lidos"
+        android:icon="@drawable/lido"/>
+
+    <item android:id="@+id/fragLivrosParaLer"
+        android:title="Ler"
+        android:icon="@drawable/ler"/>
+
+
+</menu>
